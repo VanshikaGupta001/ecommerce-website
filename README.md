@@ -1,4 +1,4 @@
-# ShopHub E-Commerce Marketplace
+# ShopHub E-Commerce Website
 
 ShopHub is a full-stack e-commerce marketplace that supports buyer shopping flows, seller inventory management, product search, cart checkout, payment processing, and order fulfillment. The project is built with a React + TypeScript frontend and an Express + Prisma backend backed by PostgreSQL.
 
