@@ -13,8 +13,6 @@ ShopHub is a full-stack e-commerce marketplace that supports buyer shopping flow
 - [Available Scripts](#available-scripts)
 - [API Overview](#api-overview)
 - [Database Overview](#database-overview)
-- [Benchmarking Resume Metrics](#benchmarking-resume-metrics)
-- [Security Notes](#security-notes)
 
 ## Features
 
