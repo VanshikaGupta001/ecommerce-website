@@ -135,7 +135,6 @@ ELASTIC_API_KEY="your-elasticsearch-api-key"
 CLOUDINARY_CLOUD_NAME="your-cloudinary-cloud-name"
 CLOUDINARY_API_KEY="your-cloudinary-api-key"
 CLOUDINARY_API_SECRET="your-cloudinary-api-secret"
-# Optional: required only for Redis benchmark scripts
 REDIS_URL="redis://localhost:6379"
 ```
 
@@ -187,7 +186,7 @@ http://localhost:5173
 | `CLOUDINARY_CLOUD_NAME` | Yes, for uploads | Cloudinary image storage |
 | `CLOUDINARY_API_KEY` | Yes, for uploads | Cloudinary upload authentication |
 | `CLOUDINARY_API_SECRET` | Yes, for uploads | Cloudinary upload authentication |
-| `REDIS_URL` | Optional | Redis cart/cache benchmark script |
+| `REDIS_URL` | Optional | Redis cart/cache|
 
 ## Available Scripts
 
